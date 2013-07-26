@@ -1,3 +1,4 @@
-The OpenShift `ruby` cartridge documentation can be found at:
+hello-openshift
+===============
 
-https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-ruby/README.md
+Just a example of how to use openshift
