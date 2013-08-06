@@ -1,4 +1,4 @@
-hello-openshift
+Downz.org Static Site
 ===============
 
-Just a example of how to use openshift
+[DownZ.org](http://downz.org)
