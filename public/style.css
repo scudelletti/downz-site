@@ -1,0 +1,73 @@
+body{
+  color: white;
+  background-color: black;
+  font-family: Verdana;
+  background-image: url('images/backgrounds/haunted.gif');
+
+  margin:0;
+  padding:0;
+  padding-bottom: 80px;
+  text-align:center;
+}
+
+body ul{
+	list-style-type: none;
+}
+
+body ul li{
+	margin-top: 3px;
+}
+
+body ul li img{
+	float: left;
+}
+
+#central{
+  font-family: Arial;
+  font-size: 14px;
+  width: 560px;
+  margin: 80px auto 0;
+  text-align:left;
+}
+
+#caixa{
+  padding-left: 18px;
+  padding-right: 18px;
+  
+  text-align: justify;
+  font-family: Arial;
+  background-color: #1B1B1B;
+  
+  border-color: #676767;
+  border-width: 1px;
+  border-style: dashed
+}
+
+#pirata{
+  position: fixed;
+  margin-left: 600px;
+  margin-top: 60px;
+}
+
+#footer {
+  font-size: 12px;
+  margin-top: 6px;
+  margin-left: 270px;
+}
+
+#RedesSociais{
+  float: right;  
+  padding-top: 18px;
+}
+
+#linkemail {
+  color: white;
+}
+
+#central h1{
+  padding-left: 26px;
+}
+
+#central h2 {
+    float: left;
+}
