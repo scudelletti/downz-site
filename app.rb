@@ -1,7 +1,7 @@
 require 'sinatra'
 
 post "/run" do
-  puts "-"*50
-  puts params.inspect
-  puts "-"*50
+  logger.info "-"*50
+  logger.info params.inspect
+  logger.info "-"*50
 end
