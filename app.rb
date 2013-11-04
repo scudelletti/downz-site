@@ -1,6 +1,6 @@
 require 'sinatra'
 
-post "/run"
+post "/run" do
   puts "-"*50
   puts params.inspect
   puts "-"*50
